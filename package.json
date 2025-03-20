@@ -1,0 +1,13 @@
+{
+  "name": "tripster-monitor",
+  "version": "1.0.0",
+  "description": "Мониторинг цен на Tripster",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8",
+    "node-fetch": "^3.3.1"
+  }
+}
